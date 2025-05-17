@@ -34,7 +34,7 @@ public class Main {
         kitchenPool.shutdown();
         kitchenPool.awaitTermination(5,TimeUnit.SECONDS);
 
-        Thread.sleep(20000);
+        Thread.sleep(10000);
         reportLog.printReport();
     }
 }

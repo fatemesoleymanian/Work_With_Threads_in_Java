@@ -1,0 +1,10 @@
+customer 3 ordered Sushi | 1501
+customer 0 ordered Pasta | 1514
+customer 1 ordered Salad | 1506
+customer 2 ordered Pizza | 1503
+customer 1 ordered Pasta | 1507
+customer 4 ordered Burger | 1504
+customer 0 ordered Salad | 1504
+customer 2 ordered Salad | 1514
+customer 3 ordered Salad | 1508
+customer 4 ordered Burger | 1512
